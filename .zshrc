@@ -6,8 +6,6 @@
 # @author   Mustafa Siddiqui
 #
 
-export PATH="/Users/mustafasiddiqui/Libary/Python/7.7/bin:$PATH"
-
 # update prompt to
 #   remove machine model
 #   color name -> LightSteelBlue
