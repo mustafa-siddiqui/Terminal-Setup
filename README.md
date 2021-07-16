@@ -1,5 +1,5 @@
 # Terminal-Setup
-Configurations for vim editor and zsh shell.
+Work got me using the vim editor and shell a lot so I configured them to look pleasing to my eyes.
 
 ### Zsh Shell
 Zsh shell (default shell of macOS) will show prompt as:
