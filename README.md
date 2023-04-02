@@ -2,6 +2,9 @@
 Work got me using the vim editor and shell a lot so I configured them to look pleasing to my eyes.
 
 ### Zsh Shell
+
+> **Note**: I'm currently using the [Starship](https://starship.rs) prompt with the *pure* preset instead of what's mentioned below.
+
 Zsh shell (default shell of macOS) will show prompt as:
 
 ![prompt](https://github.com/mustafa-siddiqui/Terminal-Setup/blob/main/zsh_prompt.png)
