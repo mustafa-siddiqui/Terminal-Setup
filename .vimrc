@@ -7,8 +7,9 @@
 " @author   Mustafa Siddiqui
 "
 
-" show line numbers
+" show line numbers and show relative except for current line
 set number
+set relativenumber
 
 " turn on syntax
 syntax on
@@ -22,11 +23,11 @@ colorscheme codedark
 " set font with size 12
 set guifont=Menlo\ 12
 
-" replace tabs with spaces
+" replace tabs with spaces and 1 tab = 4 spaces
+set tabstop=8
+set softtabstop=4
+set shiftwidth=4
 set expandtab
-
-" 1 tab = 4 spaces
-set tabstop=4 shiftwidth=4
 
 " when deleting whitespace at the beginning of a line, delete 
 " 1 tab worth of spaces (for us this is 4 spaces)
